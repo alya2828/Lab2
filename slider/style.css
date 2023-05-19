@@ -25,8 +25,8 @@
     font-family:Georgia, 'Times New Roman', Times, serif;  
 }
 .swiper {
-    width: 600px;
-    height: 300px;
+    width: 1100px;
+    height: 600px;
   }
     .image-slider .swiper-button-prev::after,
   .image-slider .swiper-button-next::after {
@@ -38,13 +38,17 @@
     background-color: grey;
   } 
   .image-slider .swiper-pagination-bullet {
-    width: 15px;
-    height: 15px;
-    line-height: 10px;
+    width: 20px;
+    height: 20px;
+    line-height: 15px;
     font-size: 14px;
     background-color: black;
   }
   .image-slider .swiper-scrollbar-drag {
     cursor: pointer;
     background-color: darkgrey;
+  }
+  .h1
+  {
+  fon
   }
